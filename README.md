@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-	<a href="https://github.com/aw1cks">GitHub</a>
-  <b> | </b>
-	<a href="https://awicks.io">Homepage</a>
-  <b> | </b>
-	<a href="https://awicks.io/posts/">Blog</a>
-  <b> | </b>
-	<a href="https://cv.awicks.io">Curriculum Vitae</a>
+  <a href="https://github.com/aw1cks">GitHub</a>
+  <b> | </b><a href="https://gitlab.com/aw1cks">GitLab</a>
+  <b> | </b><a href="https://awicks.io">Homepage</a>
+  <b> | </b><a href="https://awicks.io/posts/">Blog</a>
+  <b> | </b><a href="https://cv.awicks.io">Curriculum Vitae</a>
 </p>
 
-Check out these projects:
- - [OpenConnect](https://github.com/aw1cks/openconnect), a dockerized VPN client ![workflow](https://github.com/aw1cks/openconnect/actions/workflows/main.yml/badge.svg)
- - [Sloth](https://github.com/aw1cks/sloth), hands-off automated Arch Linux provisioning
+<p align="center"><b>Check out these projects:</b></p>
+
+<p align="center">
+<a href="https://github.com/aw1cks/openconnect">OpenConnect</a>, a dockerized VPN client<b>&ensp;|&ensp;</b><img src="https://github.com/aw1cks/openconnect/actions/workflows/main.yml/badge.svg"/><br>
+<a href="https://github.com/aw1cks/sloth">Sloth</a>, hands-off automated Arch Linux provisioning
+</p>
