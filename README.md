@@ -13,5 +13,5 @@
 <p align="center">
 <a href="https://github.com/aw1cks/openconnect">OpenConnect</a>, a dockerized VPN client<b>&ensp;|&ensp;</b><img src="https://github.com/aw1cks/openconnect/actions/workflows/main.yml/badge.svg"/><br>
 <a href="https://github.com/aw1cks/sloth">Sloth</a>, hands-off automated Arch Linux provisioning<br>
-<img src="github-metrics.svg" alt="Metrics" width="65%">
+<img src="github-metrics.svg" alt="Metrics" height="45%">
 </p>
