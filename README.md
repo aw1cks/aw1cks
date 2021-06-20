@@ -5,6 +5,8 @@
   <b> | </b>
 	<a href="https://awicks.io">Homepage</a>
   <b> | </b>
+	<a href="https://awicks.io/posts/">Blog</a>
+  <b> | </b>
 	<a href="https://cv.awicks.io">Curriculum Vitae</a>
 </p>
 
