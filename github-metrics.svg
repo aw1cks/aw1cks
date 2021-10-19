@@ -1580,7 +1580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/k6</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1622,7 +1622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sgan81/apfs-fuse</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1661,7 +1661,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19/10/2021, 20:09  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 19/10/2021, 21:08  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
