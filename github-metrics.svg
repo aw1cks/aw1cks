@@ -1611,7 +1611,7 @@
                                 <div class="infos">
                                     <div class="name">Can't Stop</div>
                                     <div class="artist">Red Hot Chili Peppers</div>
-                                    <div class="played-at">Played at 00:15:07 on 27 Nov 2021</div>
+                                    <div class="played-at">Played at 01:32:04 on 27 Nov 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1722,7 +1722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2021, 00:31:59  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 27 Nov 2021, 01:50:14  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
