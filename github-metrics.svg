@@ -1611,7 +1611,7 @@
                                 <div class="infos">
                                     <div class="name">Force majeure</div>
                                     <div class="artist">Gaspard Augé</div>
-                                    <div class="played-at">Played at 15:06:06 on 9 Dec 2021</div>
+                                    <div class="played-at">Played at 16:14:18 on 9 Dec 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1641,7 +1641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-policy-agent/gatekeeper</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1722,7 +1722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2021, 15:15:00  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 9 Dec 2021, 16:19:08  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
