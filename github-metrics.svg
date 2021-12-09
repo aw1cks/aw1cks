@@ -1641,7 +1641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-policy-agent/gatekeeper</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1683,7 +1683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x192/universal-android-debloater</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1722,7 +1722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2021, 19:08:36  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 9 Dec 2021, 20:11:08  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
