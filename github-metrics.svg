@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimitri/pgcopydb</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)</div>
@@ -413,7 +413,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2022, 02:05:22  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 03:13:24  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
