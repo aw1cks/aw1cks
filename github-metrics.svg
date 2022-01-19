@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mirleft/tlstools</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">some TLS utilities</div>
@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hannesm/tlsclient</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TLS client program</div>
@@ -395,7 +395,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2022, 19:08:46  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 20:10:17  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
