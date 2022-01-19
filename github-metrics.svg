@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xou816/spot</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native Spotify client for the GNOME desktop</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gchq/CyberChef</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</div>
@@ -401,7 +401,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2022, 01:50:38  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 02:22:37  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
