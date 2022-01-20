@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ycd/toc</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚩 TOC, zero configuration table of content generator for Markdown files, create table of contents from any Markdown file with ease.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ycd/dstp</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧪 Run common networking tests against your site.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 18:11:18  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 19:08:10  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
