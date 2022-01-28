@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clearfraction/distribution</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Project info &amp; bugreports collector</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/sccache</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">sccache is ccache with cloud storage</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2022, 21:08:45  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 22:09:20  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
