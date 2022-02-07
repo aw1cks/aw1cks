@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yandex-cloud/skbtrace</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helper tool for generating and running BPFTrace scripts which trace and measure timings related to Linux Networking Stack, specifically SocKet Buffer contents</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stepchowfun/tagref</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tagref helps you maintain cross-references in your code.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 16:18:07  with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 17:17:05  with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
