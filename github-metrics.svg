@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kedacore/keda</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CrunchyData/postgres-operator</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2022, 05:09:16  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 19 Feb 2022, 06:12:23  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
