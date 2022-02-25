@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devjoes/github-runner-autoscaler</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -353,7 +353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pepperize/cdk-autoscaling-gitlab-runner-example</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project contains examples how to use AWS CDK autoscaling Gitlab Runner.</div>
@@ -403,7 +403,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2022, 00:41:40  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 02:02:01  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
