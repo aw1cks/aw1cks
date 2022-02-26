@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vmware-tanzu/buildkit-cli-for-kubectl</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BuildKit CLI for kubectl is a tool for building container images with your Kubernetes cluster</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parca-dev/parca</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2022, 05:09:47  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 26 Feb 2022, 06:13:27  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
