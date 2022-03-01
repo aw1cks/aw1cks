@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containerd/stargz-snapshotter</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast container image distribution plugin with lazy pulling</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/ko</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build and deploy Go applications on Kubernetes</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2022, 14:15:17  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 1 Mar 2022, 15:16:11  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
