@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openzipkin/zipkin</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zipkin is a distributed tracing system</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>questdb/questdb</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source SQL database designed to process time series data, faster</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 11:14:14  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 12:21:13  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
