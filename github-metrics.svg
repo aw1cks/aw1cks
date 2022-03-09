@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postfinance/kubenurse</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes network monitoring</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitwave-tv/bitwave</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Front end for [bitwave.tv] - an open platform live video streaming service</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2022, 05:10:47  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 06:13:38  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
