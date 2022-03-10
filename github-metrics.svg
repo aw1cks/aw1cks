@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitchellh/gon</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vmware-tanzu/vsphere-kubernetes-drivers-operator</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vSphere Kubernetes Driver Operator to simplify and automate the lifecycle management of CSI and CPI for Kubernetes cluster running on vSphere</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2022, 16:20:07  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 10 Mar 2022, 17:16:58  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
