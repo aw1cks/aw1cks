@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cisco-Talos/pyrebox</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>snabbco/snabb</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Snabb: Simple and fast packet networking</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2022, 00:41:28  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 02:01:00  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
