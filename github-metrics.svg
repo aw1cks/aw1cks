@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>genuinetools/img</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peimanja/artifactory_exporter</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JFrog Artifactory Prometheus Exporter written in Go</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2022, 07:11:11  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 15 Mar 2022, 08:13:32  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
