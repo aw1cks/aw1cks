@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prometheus-community/jiralert</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JIRA integration for Prometheus Alertmanager</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/seesaw</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2022, 14:16:17  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 31 Mar 2022, 15:17:05  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
