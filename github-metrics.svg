@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tinkerbell/cluster-api-provider-tinkerbell</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cluster API Infrastructure Provider for Tinkerbell</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/cluster-api-provider-vsphere</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -415,7 +415,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2022, 16:14:03  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 17:12:06  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
