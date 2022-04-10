@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yellowman/nsh</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenBSD networking configuration shell</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2022, 12:17:04  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 10 Apr 2022, 13:18:07  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
