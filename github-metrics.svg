@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samber/awesome-prometheus-alerts</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚨 Collection of Prometheus alerting rules</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>teejee2008/timeshift</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2022, 20:13:53  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 11 Apr 2022, 21:10:57  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
