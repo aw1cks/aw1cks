@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubesphere/kubesphere</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudprober/cloudprober</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An active monitoring software to detect failures before your customers do.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2022, 12:20:57  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Apr 2022, 13:27:23  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
