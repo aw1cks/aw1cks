@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleContainerTools/jib</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏗 Build container images for your Java applications.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/nvidia-docker</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build and run Docker containers leveraging NVIDIA GPUs</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2022, 00:53:09  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 17 Apr 2022, 02:28:07  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
