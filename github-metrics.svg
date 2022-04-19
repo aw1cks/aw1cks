@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tazjin/nixery</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Container registry which transparently builds images using the Nix package manager</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/synthetic-monitoring-agent</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Synthetic Monitoring Agent</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2022, 20:13:06  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 19 Apr 2022, 21:12:50  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
