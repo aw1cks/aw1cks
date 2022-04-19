@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/synthetic-monitoring-agent</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Synthetic Monitoring Agent</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyperjumptech/monika</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2022, 10:18:00  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 19 Apr 2022, 11:11:27  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
