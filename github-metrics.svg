@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenUnison/openunison-k8s</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Access portal for Kubernetes</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mingrammer/diagrams</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -417,7 +417,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2022, 06:15:21  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 9 May 2022, 07:11:47  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
