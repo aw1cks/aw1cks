@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cortesi/modd</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flexible developer tool that runs processes and responds to filesystem changes</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bluecmd/fortigate_exporter</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prometheus exporter for Fortigate firewalls</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 08:19:00  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 09:17:06  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
