@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pryorda/vmware_exporter</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VMWare vCenter Exporter for Prometheus</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MicroOps-cn/data_exporter</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prometheus Common Data Exporter can parse JSON, XML, yaml or other format data from various sources (such as HTTP response message, local file, TCP response message and UDP response message) into Prometheus metric data.</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2022, 08:18:54  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 09:12:19  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
