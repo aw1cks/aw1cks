@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>osism/awesome-netbox</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome NetBox resources</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guanana/netbox-sync-physical-hosts</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Because automated source of truth can be handy sometimes ;-)</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2022, 07:11:41  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 May 2022, 08:15:26  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
