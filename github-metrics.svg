@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pikasTech/pikascript</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cminyard/ser2net</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serial to network interface, allows TCP/UDP to serial port connections</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2022, 22:10:30  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 23:11:24  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
