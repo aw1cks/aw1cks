@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Biont/sway-launcher-desktop</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pikasTech/pikascript</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2022, 19:09:50  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Jun 2022, 20:11:13  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
