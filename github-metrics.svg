@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fm-sys/snapdrop-android</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android client for local file sharing via https://snapdrop.net/</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 08:14:11  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 09:11:03  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
