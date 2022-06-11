@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/cluster-api</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home for Cluster API, a subproject of sig-cluster-lifecycle</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vast-data/vast-exporter</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VAST Prometheus Exporter</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 19:08:55  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 20:11:27  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
