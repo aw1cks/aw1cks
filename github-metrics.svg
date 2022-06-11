@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vast-data/vast-exporter</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VAST Prometheus Exporter</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nixn/pdns-etcd3</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerDNS remote backend with ETCD v3 cluster as storage.</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 05:09:57  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 06:13:05  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
