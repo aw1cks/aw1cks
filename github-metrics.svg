@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdzx/audiosource</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vast-data/vast-csi</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VAST's Container Storage Interface (CSI) Driver</div>
@@ -417,7 +417,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2022, 16:14:41  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 17:21:18  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
