@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cue-lang/cue</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The new home of the CUE language! Validate and define text-based and dynamic configuration</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neondatabase/neon</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The serverless open source alternative to AWS Aurora Postgres.</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2022, 16:16:49  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 16 Jun 2022, 17:17:28  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
