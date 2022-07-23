@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coroot/coroot-pg-agent</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Postgres exporter for Prometheus focusing on query performance statistics</div>
@@ -335,7 +335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krlvm/PowerTunnel-Android</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful and extensible proxy server with anti-censorship functionality for Android</div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2022, 09:11:31  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 10:12:13  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
