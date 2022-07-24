@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coroot/coroot-pg-agent</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Prometheus exporter for Postgres focusing on query performance statistics</div>
@@ -373,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 08:14:18  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 09:11:40  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
