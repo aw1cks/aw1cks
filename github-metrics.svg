@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>natesales/pathvector</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative routing platform that automates BGP route optimization and control plane configuration with secure and repeatable routing policy.</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>philj56/tofi</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny dynamic menu for Wayland</div>
@@ -373,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 22:11:20  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 23:11:44  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
