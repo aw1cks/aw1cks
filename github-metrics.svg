@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>philj56/tofi</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny dynamic menu for Wayland</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derailed/popeye</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👀 A Kubernetes cluster resource sanitizer</div>
@@ -373,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 12:21:37  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 13:36:08  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
