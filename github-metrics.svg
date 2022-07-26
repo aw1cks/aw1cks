@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derailed/popeye</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👀 A Kubernetes cluster resource sanitizer</div>
@@ -335,7 +335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abiosoft/colima</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Container runtimes on macOS (and Linux) with minimal setup</div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 04:00:21  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 05:10:22  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
