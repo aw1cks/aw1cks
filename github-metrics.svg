@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>natesales/pathvector</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative routing platform that automates BGP route optimization and control plane configuration with secure and repeatable routing policy.</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>philj56/tofi</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny dynamic menu for Wayland</div>
@@ -357,7 +357,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        12
+                                        13
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -373,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 23:11:44  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 01:04:50  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
