@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahrm/SDWM</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Dynamic Window Manager for Windows</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BurntSushi/xsv</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast CSV command line toolkit written in Rust.</div>
@@ -373,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2022, 11:10:25  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 12:18:24  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
