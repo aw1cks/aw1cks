@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pwaller/docker-show-context</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show where time is wasted during the context upload of `docker build`</div>
@@ -335,7 +335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GeorgeFilipkin/pulsemixer</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI and curses mixer for PulseAudio</div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 23:12:58  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 01:07:25  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
