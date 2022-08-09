@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>p-gen/smenu</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Chick2D/neofetch-themes</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neofetch configs put into a convinient repository</div>
@@ -367,7 +367,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2022, 20:12:57  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 21:10:22  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
