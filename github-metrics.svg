@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Miksus/red-mail</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced email sending for Python</div>
@@ -335,7 +335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knqyf263/dnspooq</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DNSpooq - dnsmasq cache poisoning (CVE-2020-25686, CVE-2020-25684, CVE-2020-25685)</div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2022, 14:13:02  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 15:12:26  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
