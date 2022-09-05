@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nfs-ganesha/nfs-ganesha</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems</div>
@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>k0rventen/apple-health-grafana</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize your apple health export in Grafana</div>
@@ -373,7 +373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 19:09:54  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 20:13:37  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
