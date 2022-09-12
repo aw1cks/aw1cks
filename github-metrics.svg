@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetpack-io/devbox</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Instant, easy, predictable shells and containers.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jenkinsci/jfr-action-doc</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is central documentation page for jenkinsfile-runner GitHub Actions.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2022, 19:12:08  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Sept 2022, 20:14:09  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
