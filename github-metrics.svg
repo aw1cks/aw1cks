@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reorg/pg_repack</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reorganize tables in PostgreSQL databases with minimal locks</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2022, 18:24:36  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Oct 2022, 19:18:07  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
