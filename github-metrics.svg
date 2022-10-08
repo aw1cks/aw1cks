@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/Enterprise-Scale</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>martinbaillie/vault-plugin-secrets-github</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2022, 21:12:21  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 8 Oct 2022, 22:13:22  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
