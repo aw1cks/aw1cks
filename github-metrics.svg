@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hidetatz/kubecolor</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">colorizes kubectl output</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allero-io/allero</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2022, 05:05:19  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Oct 2022, 06:20:07  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
