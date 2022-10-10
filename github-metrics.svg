@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hidetatz/kubecolor</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">colorizes kubectl output</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2022, 23:14:52  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Oct 2022, 01:16:22  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
