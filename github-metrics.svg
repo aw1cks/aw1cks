@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>svinota/pyroute2</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python Netlink and PF_ROUTE library — network configuration and monitoring</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mwaskom/seaborn</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Statistical data visualization in Python</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2022, 19:21:16  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Oct 2022, 20:15:27  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
