@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bluejekyll/trust-dns</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust based DNS client, server, and resolver</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krtab/agnos</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2022, 17:26:16  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Oct 2022, 18:19:04  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
