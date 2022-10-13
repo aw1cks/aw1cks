@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>binwiederhier/ntfy</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Send push notifications to your phone or desktop using PUT/POST</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions-runner-controller/actions-runner-controller</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes controller for GitHub Actions self-hosted runners</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2022, 17:34:43  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Oct 2022, 18:23:21  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
