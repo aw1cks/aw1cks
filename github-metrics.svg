@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Metrist-Software/libcurl-agent</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Metrist agent for libcurl</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dentrax/kubesql</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental tool to query K8s API using plain SQL</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2022, 04:19:55  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Oct 2022, 06:02:59  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
