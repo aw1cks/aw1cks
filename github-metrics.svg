@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isc-projects/stork</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stork is a dashboard for BIND 9 and Kea DHCP. It is under active development, with monthly releases. The initial priority is to provide monitoring and troubleshooting support.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TLmaK0/gravizo</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to include graphviz graphs in github README</div>
@@ -390,7 +390,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2022, 17:36:49  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Oct 2022, 18:27:56  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
