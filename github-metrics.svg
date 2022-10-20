@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>P3GLEG/Whaler</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Program to reverse Docker images into Dockerfiles</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>regclient/regclient</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker and OCI Registry Client in Go and tooling using those libraries.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2022, 08:18:48  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Oct 2022, 09:21:19  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
