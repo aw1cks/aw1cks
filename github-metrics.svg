@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prometheus-community/systemd_exporter</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exporter for systemd unit metrics</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2022, 22:14:31  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Oct 2022, 23:15:40  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
