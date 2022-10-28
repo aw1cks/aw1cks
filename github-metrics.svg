@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tlkh/asitop</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Perf monitoring CLI tool for Apple Silicon</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjpieters/aiolimiter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An efficient implementation of a rate limiter for asyncio.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2022, 07:12:23  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 28 Oct 2022, 08:17:18  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
