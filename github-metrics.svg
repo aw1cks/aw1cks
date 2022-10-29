@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dragonflyoss/image-service</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>karakun/OpenWebStart</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Web Start based applications after the release of Java 11</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2022, 12:21:39  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Oct 2022, 13:27:03  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
