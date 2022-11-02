@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeblateOrg/weblate</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web based localization tool with tight version control integration.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ClickHouse/ClickHouse</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ClickHouse® is a free analytics DBMS for big data</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 07:14:04  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 08:16:57  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
