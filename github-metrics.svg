@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Unleash/unleash</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unleash is the open source feature toggle service.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeblateOrg/weblate</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web based localization tool with tight version control integration.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2022, 03:25:24  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Nov 2022, 04:33:43  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
