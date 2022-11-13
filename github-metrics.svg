@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darshanime/netpeek</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Layer 7 sniffer</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schemahero/schemahero</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Kubernetes operator for declarative database schema management (gitops for database schemas)</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 22:12:13  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 23:12:11  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
