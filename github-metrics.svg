@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>goauthentik/authentik</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The authentication glue you need.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NHAS/wag</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Wireguard 2FA</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2022, 05:11:29  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Nov 2022, 06:14:54  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
