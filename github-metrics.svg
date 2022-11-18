@@ -279,7 +279,7 @@
                                 <div class="infos">
                                     <div class="name">Кукушка</div>
                                     <div class="artist">Kino</div>
-                                    <div class="played-at">Played at 00:19:21 on 18 Nov 2022</div>
+                                    <div class="played-at">Played at 13:25:32 on 18 Nov 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anderspitman/awesome-tunneling</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2022, 13:30:15  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Nov 2022, 14:11:35  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
