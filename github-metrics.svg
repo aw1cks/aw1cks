@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rs/dnstrace</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DNS resolution tracing tool</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulc/dnslib</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python library to encode/decode DNS wire-format packets</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2022, 08:14:39  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 29 Nov 2022, 09:11:25  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
