@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-policy-agent/gatekeeper-library</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The OPA Gatekeeper policy library.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2022, 10:11:38  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 7 Dec 2022, 11:09:01  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
