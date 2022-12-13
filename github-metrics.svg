@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mmlb/yamlfmt</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple opionated yaml formatter that keeps your comments!</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurae-runtime/aurae</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed systems runtime daemon written in Rust.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2022, 08:14:06  with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 13 Dec 2022, 09:11:07  with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
