@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ori-edge/k8s_gateway</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CoreDNS plugin to resolve all types of external Kubernetes resources</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metal3d/docker-domains</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Have docker containers responding to any domain name</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2022, 18:11:28  with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 17 Dec 2022, 19:07:41  with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
