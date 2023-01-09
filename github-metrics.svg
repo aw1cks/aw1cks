@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hartfordfive/prometheus-ldap-sd</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prometheus service discovery via LDAP</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kumahq/kuma</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2023, 17:11:48  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 9 Jan 2023, 18:13:30  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
