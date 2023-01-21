@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluxcd/flagger</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>banzaicloud/bank-vaults</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2023, 14:08:31  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 21 Jan 2023, 15:09:18  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
