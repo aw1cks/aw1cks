@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mmcloughlin/avo</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate x86 Assembly with Go</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiangolo/sqlmodel</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL databases in Python, designed for simplicity, compatibility, and robustness.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2023, 22:29:16  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Jan 2023, 23:10:06  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
