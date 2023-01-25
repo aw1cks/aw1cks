@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terrastruct/d2-obsidian</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official D2 plugin for Obsidian. D2 is a modern diagram scripting language thats turns text to diagrams.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mmcloughlin/avo</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate x86 Assembly with Go</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2023, 09:09:50  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 10:10:45  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
