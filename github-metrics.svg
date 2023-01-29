@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bregman-arie/sre-checklist</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A checklist of anyone practicing Site Reliability Engineering</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/restler-fuzzer</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2023, 08:12:16  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 29 Jan 2023, 09:09:23  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
