@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m4xshen/autoclose.nvim</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalist Neovim plugin that auto pairs &amp; closes brackets written in 100% Lua.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nats-io/nats-server</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-Performance server for NATS.io, the cloud and edge native messaging system.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Feb 2023, 04:12:41  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 3 Feb 2023, 05:10:22  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
