@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossu/computer-science</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PacoVK/tapir</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Private Terraform Registry</div>
@@ -399,7 +399,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2023, 14:09:59  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Feb 2023, 15:11:11  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
