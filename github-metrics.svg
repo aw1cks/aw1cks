@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ploopyco/headphones</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of 3D-printed headphones, alongside a DAC/amp/EQ board powered by a Raspberry Pico.</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 22:10:24  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 23:10:47  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
