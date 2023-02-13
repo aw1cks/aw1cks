@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dentproject/dentOS</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dentOS SwitchDev based NOS</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ajnart/homarr</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2023, 09:11:37  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 13 Feb 2023, 10:12:12  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
