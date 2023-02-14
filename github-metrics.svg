@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getlago/lago</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Metering and Usage Based Billing</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>project-koku/koku</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source solution for cost management of cloud and hybrid cloud environments.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2023, 03:14:49  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 14 Feb 2023, 04:13:16  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
