@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seanmonstar/warp</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A super-easy, composable, web server framework for warp speeds.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/rustix</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe Rust bindings to POSIX-ish APIs</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2023, 13:18:53  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Feb 2023, 14:10:08  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
