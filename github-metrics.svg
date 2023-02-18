@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helm-unittest/helm-unittest</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>komodorio/helm-dashboard</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing UI for Helm - visualize your releases</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2023, 11:09:25  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Feb 2023, 12:17:40  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
