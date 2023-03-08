@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cycloidio/terracognita</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akinsho/toggleterm.nvim</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A neovim lua plugin to help easily manage multiple terminal windows</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2023, 18:13:53  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Mar 2023, 19:09:22  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
