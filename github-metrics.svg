@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>s-u/macosvm</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool for running macOS guest virtual machines in macOS 12 host or higher on M1 arm64 Macs</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cycloidio/terracognita</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2023, 00:57:13  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Mar 2023, 02:25:16  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
