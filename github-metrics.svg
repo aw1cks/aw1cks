@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emilk/egui</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dirs-dev/dirs-rs</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Mar 2023, 09:12:07  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 14 Mar 2023, 10:12:54  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
