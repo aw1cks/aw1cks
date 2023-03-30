@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diggerhq/digger</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Digger is an open source Terraform Cloud alternative. Digger allows you to run Terraform plan / apply in your CI. No need for separate CI tool, comes with all batteries included 🔋⚡</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>micahmo/WgServerforWindows</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wg Server for Windows (WS4W) is a desktop application that allows running and managing a WireGuard server endpoint on Windows</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2023, 20:10:42  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Mar 2023, 21:08:59  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
