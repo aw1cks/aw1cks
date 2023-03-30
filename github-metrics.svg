@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hivenetes/k8s-bootstrapper</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bootstrapping a Production-Ready DigitalOcean Kubernetes Cluster Using Terraform and Argo CD</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>argoproj-labs/argocd-autopilot</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Argo-CD Autopilot</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2023, 02:07:13  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Mar 2023, 03:10:55  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
