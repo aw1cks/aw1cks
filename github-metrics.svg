@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dagster-io/dagster</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An orchestration platform for the development, production, and observation of data assets.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefanprodan/kustomizer</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An experimental package manager for distributing Kubernetes configuration as OCI artifacts.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2023, 20:10:29  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Apr 2023, 21:08:32  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
