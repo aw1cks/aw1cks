@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabfuel/circuitbreaker</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python "Circuit Breaker" implementation</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ghandic/jsf</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Creates fake JSON files from a JSON schema</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2023, 00:42:22  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Apr 2023, 01:56:44  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
