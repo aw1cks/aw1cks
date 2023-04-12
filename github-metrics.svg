@@ -279,7 +279,7 @@
                                 <div class="infos">
                                     <div class="name">Song 2 - 2012 Remaster</div>
                                     <div class="artist">Blur</div>
-                                    <div class="played-at">Played at 08:22:52 on 12 Apr 2023</div>
+                                    <div class="played-at">Played at 14:18:54 on 12 Apr 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2023, 14:09:22  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Apr 2023, 15:10:07  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
