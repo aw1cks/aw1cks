@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sumerc/yappi</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>benfred/py-spy</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sampling profiler for Python programs</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2023, 11:08:13  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 May 2023, 12:18:03  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
