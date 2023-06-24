@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netsampler/goflow2</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance sFlow/IPFIX/NetFlow Collector</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akvorado/akvorado</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flow collector, enricher and visualizer</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2023, 15:10:09  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Jun 2023, 16:12:51  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
