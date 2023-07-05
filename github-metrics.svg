@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ariga/atlas</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern tool for managing database schemas</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>owntone/owntone-server</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2023, 01:02:25  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 02:54:52  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
