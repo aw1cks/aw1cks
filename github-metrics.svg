@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>onedr0p/flux-cluster-template</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ariga/atlas</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern tool for managing database schemas</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2023, 17:08:52  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jul 2023, 18:12:16  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
