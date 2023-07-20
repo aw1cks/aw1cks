@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chipsenkbeil/choose</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fuzzy matcher for OS X that uses both std{in,out} and a native GUI</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JoseExposito/touchegg</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux multi-touch gesture recognizer</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2023, 12:19:03  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jul 2023, 13:14:28  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
