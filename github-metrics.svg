@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeedleFake/trayscale</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial GUI wrapper around the Tailscale CLI client.</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/devshell</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Per project developer environments</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2023, 13:12:36  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Aug 2023, 14:09:09  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
