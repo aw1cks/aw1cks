@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-telescope/telescope.nvim</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find, Filter, Preview, Pick. All lua, all the time.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2023, 16:11:50  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Aug 2023, 17:07:28  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
