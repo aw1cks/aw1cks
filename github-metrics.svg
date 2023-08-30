@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-colortils/colortils.nvim</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some color utils for neovim</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>checkly/checkly-cli</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TS/JS native E2E Testing and Monitoring workflow: Monitoring-as-Code.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2023, 20:10:19  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Aug 2023, 21:10:05  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
