@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-jet/jet</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type safe SQL builder with code generation and automatic query result data mapping</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sqlc-dev/sqlc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate type-safe code from SQL</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2023, 01:44:46  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Sept 2023, 02:16:32  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
