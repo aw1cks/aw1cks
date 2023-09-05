@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EpicWink/proxpi</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyPI caching mirror</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>goharbor/harbor</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source trusted cloud native registry project that stores, signs, and scans content.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2023, 18:12:08  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Sept 2023, 19:07:51  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
