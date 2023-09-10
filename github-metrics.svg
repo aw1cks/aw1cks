@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattmc3/antidote</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">https://getantidote.github.io - the cure to slow zsh plugin management</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ansible/galaxy_ng</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Galaxy NextGen</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2023, 09:08:35  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Sept 2023, 10:08:51  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
