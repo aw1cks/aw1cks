@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kr8s-org/kr8s</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</div>
@@ -409,7 +409,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2023, 00:41:26  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2023, 01:44:18  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
