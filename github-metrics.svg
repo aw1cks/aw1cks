@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Skyscanner/applicationset-progressive-sync</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Progressive sync controller for Argo ApplicationSet</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akuity/awesome-argo</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome projects and resources related to Argo (a CNCF graduated project)</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 22:08:35  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2023, 23:08:35  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
