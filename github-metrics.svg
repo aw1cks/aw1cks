@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trickstercache/trickster</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/go-cmp</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Package for comparing Go values in tests</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2023, 07:09:24  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2023, 08:13:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
