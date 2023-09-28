@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knative-extensions/net-kourier</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skypilot-org/skypilot</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2023, 04:11:22  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2023, 05:09:05  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
