@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudogu/gitops-patterns</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openwisp/openwisp-controller</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Network and WiFi controller: provisioning, configuration management and updates, (pull via openwisp-config or push via SSH), x509 PKI management and more. Mainly OpenWRT, but designed to work also on other systems.</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2023, 21:07:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2023, 22:08:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
