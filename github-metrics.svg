@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openwisp/openwisp-controller</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Network and WiFi controller: provisioning, configuration management and updates, (pull via openwisp-config or push via SSH), x509 PKI management and more. Mainly OpenWRT, but designed to work also on other systems.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imp1sh/ansible_openwrt</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ansible_openwrt is a full featured openwrt collection. It relies on python so you need enough flash space in order to be able to use it.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2023, 05:09:08  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2023, 06:11:55  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
