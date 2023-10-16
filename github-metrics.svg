@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudogu/gitops-patterns</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc</div>
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2023, 13:13:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 14:09:59  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
