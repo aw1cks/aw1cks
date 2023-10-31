@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freifunk-gluon/gluon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bluenviron/mediamtx</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2023, 22:08:49  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2023, 23:09:21  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
