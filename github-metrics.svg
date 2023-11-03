@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Manawyrm/nvme-int13h-optionrom</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Option ROM to boot x86 PCs from NVMe drives (legacy BIOS, INT 13h)</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freifunk-gluon/gluon</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2023, 21:07:38  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2023, 22:09:15  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
