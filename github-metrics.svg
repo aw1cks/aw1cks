@@ -279,7 +279,7 @@
                                 <div class="infos">
                                     <div class="name">Steamworks</div>
                                     <div class="artist">The Presets</div>
-                                    <div class="played-at">Played at 10:58:11 on 6 Nov 2023</div>
+                                    <div class="played-at">Played at 13:09:04 on 6 Nov 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2023, 12:18:32  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2023, 13:14:23  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
