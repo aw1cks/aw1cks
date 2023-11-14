@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/xk6-kubernetes</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client extension for interacting with Kubernetes clusters from your k6 tests.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 11:08:17  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 12:17:39  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
