@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/beyla</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">eBPF-based autoinstrumentation of HTTP and HTTPS services</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/xk6-kubernetes</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client extension for interacting with Kubernetes clusters from your k6 tests.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 09:10:31  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 10:11:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
