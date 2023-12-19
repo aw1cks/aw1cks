@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>admiraltyio/admiralty</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A system of Kubernetes controllers that intelligently schedules workloads across clusters.</div>
@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elotl/kip</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual-kubelet provider running pods in cloud instances</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2023, 06:13:21  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2023, 07:09:32  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
