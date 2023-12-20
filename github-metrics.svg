@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emoose/DLSSTweaks</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tweak DLL for NVIDIA DLSS, allows forcing DLAA on DLSS-supported titles, tweaking scaling ratios &amp; DLSS 3.1 presets, and overriding DLSS versions without overwriting game files.</div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2023, 19:07:04  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2023, 20:10:29  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
