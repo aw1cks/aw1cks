@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zsrv/supermicro-product-key</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Supermicro product key utility</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solarkennedy/ipmi-kvm-docker</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Dockerfile to make it easy to use the ipmi kvm on hosts</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2024, 19:08:03  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 20:10:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
