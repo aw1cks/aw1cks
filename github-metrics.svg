@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libdns/libdns</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Core interfaces for universal DNS record manipulation across providers</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jepsen-io/jepsen</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for distributed systems verification, with fault injection</div>
@@ -400,7 +400,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2024, 04:11:39  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2024, 05:09:30  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
