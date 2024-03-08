@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ansible-collections/cloud.terraform</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The collection automates the management and provisioning of infrastructure as code (IaC) using the Terraform CLI tool within Ansible playbooks and Execution Environment runtimes.</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ansible/terraform-provider-ansible</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">community terraform provider for ansible</div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2024, 14:09:55  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2024, 15:10:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
