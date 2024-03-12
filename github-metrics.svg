@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xERR0R/blocky</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and lightweight DNS proxy as ad-blocker for local network with many features</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2024, 11:08:23  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2024, 12:16:33  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
