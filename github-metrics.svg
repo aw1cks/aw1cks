@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>duckdb/duckdb</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DuckDB is an in-process SQL OLAP Database Management System</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>commaai/openpilot</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2024, 22:09:20  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2024, 23:09:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
