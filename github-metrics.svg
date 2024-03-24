@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eclipse/che</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes based Cloud Development Environments for Enterprise Teams</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tembo-io/pgmq</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2024, 05:09:54  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 06:12:05  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
