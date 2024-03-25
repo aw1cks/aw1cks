@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x-motemen/gore</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bordaigorl/rmview</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A live viewer for reMarkable written in PyQt5</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2024, 16:12:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2024, 17:09:46  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
