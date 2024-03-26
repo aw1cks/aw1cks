@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/retina</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">eBPF distributed networking observability tool for Kubernetes</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x-motemen/gore</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2024, 07:09:04  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 08:12:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
