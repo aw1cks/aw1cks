@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/gitignore</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of useful .gitignore templates</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>perfsonar/project</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The perfSONAR project's primary wiki and issue tracker.</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 05:09:50  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 06:11:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
