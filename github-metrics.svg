@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/kubernetes-the-hard-way</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/autocert</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2024, 17:08:49  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 18:12:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
