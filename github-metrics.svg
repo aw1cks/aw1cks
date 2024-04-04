@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opendnssec/SoftHSMv2</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SoftHSM version 2</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crc-org/crc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CRC is a tool to help you run containers. It manages a local OpenShift 4.x cluster, Microshift or a Podman VM optimized for testing and development purposes</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2024, 14:11:06  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2024, 15:10:04  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
