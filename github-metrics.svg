@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openbao/openbao</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opendnssec/SoftHSMv2</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SoftHSM version 2</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2024, 19:09:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2024, 20:10:28  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
