@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>git-ecosystem/git-credential-manager</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2024, 20:11:04  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2024, 21:09:41  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
