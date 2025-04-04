@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>k8gb-io/k8gb</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cloud native Kubernetes Global Balancer</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2025, 05:13:47  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2025, 06:19:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
