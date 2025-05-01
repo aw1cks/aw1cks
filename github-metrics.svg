@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reproducible-containers/diffoci</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">diff for Docker and OCI container images</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>testcontainers/testcontainers-go</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2025, 16:17:19  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2025, 17:12:36  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
