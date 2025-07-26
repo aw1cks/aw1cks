@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waycrate/xdg-desktop-portal-luminous</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A xdg-desktop-portal for wlroots based compositors implementing zwlr_screencopy. Written by @decodetalkers</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deskflow/deskflow</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Share a single keyboard and mouse between multiple computers.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2025, 06:20:52  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2025, 07:14:31  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
