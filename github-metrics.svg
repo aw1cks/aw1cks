@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/comma</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>graysky2/profile-sync-daemon</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2025, 06:29:10  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2025, 07:24:10  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
