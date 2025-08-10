@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Arc-Compute/LibVF.IO</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A vendor neutral GPU multiplexing tool driven by VFIO &amp; YAML.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nixos-generators</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of image builders [maintainer=@Lassulus]</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2025, 18:18:47  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2025, 19:11:04  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
