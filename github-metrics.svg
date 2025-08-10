@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samuelngs/apple-emoji-linux</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Brings Apple's vibrant emojis to your Linux experience</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>b4rtaz/distributed-llama</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2025, 03:39:40  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2025, 04:35:49  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
