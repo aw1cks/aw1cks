@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keel-hq/keel</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes Operator to automate Helm, DaemonSet, StatefulSet &amp; Deployment updates</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aguacero7/rkik</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rusty Klock Inspection Kit - Simple NTP Client</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2025, 20:15:41  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2025, 21:12:00  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
