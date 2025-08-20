@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mmastrac/stylus</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight status page for home infrastructure</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustic-rs/rustic</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">rustic - fast, encrypted, and deduplicated backups powered by Rust</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2025, 14:14:30  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2025, 15:15:00  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
