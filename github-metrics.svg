@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alero-awani/kubernetes-networking</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive guide to Kubernetes Networking with clear explanations and rich visuals. Covers pod-to-pod communication, Services, DNS, Ingress, and CNI plugins. Perfect for learners and practitioners who want to demystify how networking works inside Kubernetes.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zapier/kubechecks</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Check your Kubernetes changes before they hit the cluster</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2025, 21:10:53  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2025, 22:12:07  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
