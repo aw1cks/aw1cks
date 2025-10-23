@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nik-rev/awesome-tiny-crates</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bunch of small crates that make writing Rust more fun</div>
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dag-andersen/argocd-diff-preview</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool for rendering manifest changes on pull requests.</div>
@@ -390,7 +390,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2025, 16:17:25  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2025, 17:12:24  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
