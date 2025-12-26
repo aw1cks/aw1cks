@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gimlet-io/capacitor</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A general purpose UI for FluxCD.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>u-root/cpu</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cpu command in Go, inspired by the Plan 9 cpu command</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2025, 21:13:35  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2025, 22:14:31  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
