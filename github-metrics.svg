@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>u-root/cpu</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cpu command in Go, inspired by the Plan 9 cpu command</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chipsec/chipsec</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Platform Security Assessment Framework</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2025, 12:29:42  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2025, 13:28:51  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
