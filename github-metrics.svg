@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ratatui/ratatui</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>christo-auer/eilmeldung</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">eilmeldung is a TUI RSS reader based on the awesome news-flash library.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2026, 03:49:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2026, 04:52:28  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
