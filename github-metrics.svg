@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ClickHouse/clickhouse-operator</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Kubernetes Operator for ClickHouse®</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2026, 19:34:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Feb 2026, 20:27:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
