@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pypa/manylinux</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python wheels that work on any linux (almost)</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lemonade-sdk/lemonade</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2026, 15:53:09  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2026, 16:53:48  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
