@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ch00k/mullvad-compass</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find the best Mullvad VPN server to connect to</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2026, 01:23:22  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2026, 03:59:47  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
