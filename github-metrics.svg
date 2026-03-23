@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>utensils/mcp-nixos</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP-NixOS - Model Context Protocol Server for NixOS resources</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Foxboron/attezt</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source TPM device-attest-01 CA server</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2026, 11:39:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2026, 12:52:03  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
