@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxalica/cargo-bloated</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find out what takes most of the space in your executable, more accurately</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2026, 06:55:11  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2026, 07:46:12  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
