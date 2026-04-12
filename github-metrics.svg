@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hosenur/portal</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rtfpessoa/diff2html</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty diff to html javascript library (diff2html)</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2026, 14:36:59  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2026, 15:30:53  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
