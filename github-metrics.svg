@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kmscon/kmscon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux KMS/DRM based virtual Console Emulator</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lamco-admin/lamco-rdp-server</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding, clipboard sync, multi-monitor. GNOME, KDE Plasma, Sway, Hyprland.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2026, 16:52:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2026, 17:55:47  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
