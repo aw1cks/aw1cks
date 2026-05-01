@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sourcebot-dev/sourcebot</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>joshii-h/fix-omnissa-horizon-graphic-bugs-wayland</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fixes for Omnissa Horizon Client graphical bugs on Wayland (dark theme, HiDPI scaling, XKB crash, protocol warning). Patches for Fedora, Gentoo, and Arch Linux.</div>
@@ -396,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2026, 08:55:49  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2026, 10:18:43  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
