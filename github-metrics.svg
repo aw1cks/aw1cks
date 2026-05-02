@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tranquilit/OpenRSAT</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenRSAT is an open-source, cross-platform tool for Active Directory administration via an interface, inspired by Microsoft’s RSAT tools. It enables system administrators to manage users, groups, and organizational units on Windows, Linux, and macOS.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sourcebot-dev/sourcebot</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2026, 05:30:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2026, 07:23:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
