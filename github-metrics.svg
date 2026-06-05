@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PixlOne/logiops</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial userspace driver for HID++ Logitech devices</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tale/headplane</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-complete Web UI for Headscale</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2026, 19:45:20  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2026, 21:19:48  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
