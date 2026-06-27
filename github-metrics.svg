@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeebLabs/DSPi</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Official Discord: https://discord.gg/RCyqxAQ5xS</div>
@@ -403,7 +403,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2026, 09:25:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2026, 11:23:28  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
