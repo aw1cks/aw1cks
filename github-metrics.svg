@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cachix/secretspec</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A declarative interface for every secret provider.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2026, 18:46:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2026, 19:50:29  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
