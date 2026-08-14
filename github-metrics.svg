@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-cross/cargo-xwin</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross compile Cargo project to Windows MSVC target with ease</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cross-rs/cross</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">“Zero setup” cross compilation and “cross testing” of Rust crates</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2026, 17:46:17  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Aug 2026, 18:43:33  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
