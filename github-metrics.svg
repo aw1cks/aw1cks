@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rk8s-dev/rk8s</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight Kubernetes-compatible container orchestration system written in Rust, implementing the Container Runtime Interface (CRI) with support for single containers, Kubernetes-style pods, and Docker Compose-style multi-container applications.</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tldr-pages/tlrc</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official tldr client written in Rust.</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2026, 10:40:48  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2026, 15:26:20  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
