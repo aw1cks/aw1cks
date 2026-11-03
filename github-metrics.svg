@@ -299,7 +299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boinkor-net/tsnsrv</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reverse proxy that exposes services on your tailnet (as their own tailscale participants)</div>
@@ -352,7 +352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nlewo/comin</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitOps For NixOS Servers and Laptops</div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 15:41:53  with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 3 Nov 2026, 21:24:30  with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
